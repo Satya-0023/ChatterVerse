@@ -113,9 +113,18 @@ Contributions are welcome! Please follow these steps:
 
 ## 👤 Author
 
+<<<<<<< HEAD
 **Satya** - [Your GitHub Profile](https://github.com/Satya-0023)
+=======
+**Satya** - [Your GitHub Profile](https://github.com/yourusername)
+>>>>>>> 4565d1c359ec81f21a5b9d792fbe0c10940f929c
 
 ## 🧾 License
 
 This project is open-source and distributed under the MIT License.
 Feel free to contribute, enhance, and explore the project! 🚀
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 4565d1c359ec81f21a5b9d792fbe0c10940f929c
