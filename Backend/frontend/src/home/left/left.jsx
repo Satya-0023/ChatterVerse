@@ -1,6 +1,6 @@
 import React from 'react';
 import Search from './search';
-import Users from './users';
+import Users from './Users';
 export default function left() {
   return (
     <div className='w-full bg-black text-white h-screen flex flex-col'>
