@@ -18,8 +18,6 @@ export const getReceiverSocketId = (receiverId) =>{
 }
 
 
-
-
 const users = {};
 
 io.on("connection", (socket) => {
