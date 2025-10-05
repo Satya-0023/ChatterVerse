@@ -83,7 +83,7 @@ npm start
 
 Register or log in using valid credentials.
 
-Start private or group chats.
+Start private chats.
 
 Send and receive messages instantly using Socket.io.
 
@@ -119,3 +119,4 @@ Contributions are welcome! Please follow these steps:
 
 This project is open-source and distributed under the MIT License.
 Feel free to contribute, enhance, and explore the project! 🚀
+
