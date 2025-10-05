@@ -27,7 +27,11 @@ A real-time chat application built with the MERN Stack (MongoDB, Express.js, Rea
 
 ## 📸 Screenshots
 
-_Add screenshots of your app here to showcase the UI._
+_Add screenshots or GIFs of your app here to showcase the UI._
+
+## 🌐 Live Demo
+
+Check out the live application here: [https://chatterverse-6hcp.onrender.com/](https://chatterverse-6hcp.onrender.com/)
 
 ## ⚙️ Installation & Setup
 
@@ -38,7 +42,6 @@ Follow these steps to set up the project locally:
 ```bash
 git clone https://github.com/ankitpathak62/ChatAPP.git
 cd ChatAPP
-```
 
 ### 2️⃣ Install Dependencies
 
